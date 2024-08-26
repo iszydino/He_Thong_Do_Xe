@@ -1,1 +1,5 @@
-
+Dự Án :" Bãi đỗ xe sử dụng ESP32 và Blynk "
+Đơn vị:"EMBEDEDD AIOT LAB-PTIT"
+Ngôn Ngữ :"C"
+Chức năng:"Đỗ Xe hiện thị trên LCD TFT và Blynk"
+Link Blynk :"https://blynk.cloud/dashboard/523779/global/devices/4314633/organization/523779/devices/2537560/dashboard"
